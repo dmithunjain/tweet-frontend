@@ -85,7 +85,7 @@ export default function CreateTweet() {
           />
         </div>
 
-        <button type="submit">Post Tweet</button>
+        <button type="submit">Post Tweets</button>
       </form>
     </div>
   );
